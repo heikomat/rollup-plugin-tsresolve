@@ -1,0 +1,22 @@
+{
+  "name": "rollup-plugin-tsresolve",
+  "version": "0.1.0-pre",
+  "description": "Rollup-Plugin that resolves files as configures in the tsconfig.json",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heikomat/rollup-plugin-tsresolve.git"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "typescript",
+    "resolve"
+  ],
+  "author": "Heiko Mathes <heiko.mathes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heikomat/rollup-plugin-tsresolve/issues"
+  },
+  "homepage": "https://github.com/heikomat/rollup-plugin-tsresolve#readme"
+}
